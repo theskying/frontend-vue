@@ -31,3 +31,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 这是 使用Vue搭建的 blog前端页面   -- 2018/12/27
+
+后端使用springboot框架整合mysql、redis,后端项目开源在github:https://github.com/theskying/backend-springboot
